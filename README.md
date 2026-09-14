@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Daniel </h1>
-<p>CS Student & Java Developer | Building real-world backend apps with Spring Boot</p>
+<p>CS Student & Java Developer | Building real-world backend apps </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
